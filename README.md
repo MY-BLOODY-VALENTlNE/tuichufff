@@ -3,7 +3,7 @@
 <details <p align="center">
 <summary> $${\color{#3F834A} DNI }$$  </summary>
 
-proshippers, racist, homophobic + transphobic, necrophiles, wincest fans
+proshippers, racist, homophobic + transphobic, necrophiles, israel supporter, wincest fans
 
 </details>
 
