@@ -13,9 +13,17 @@
   <img src="https://github.com/tuichuf/tuichuf/blob/7194d3c85c2c5acd242e7c4b32970787688ca6d8/rings.gif" width="400">
 </p>
 
-<h4 align="center">
+<p align="center">
+main fandoms: 8:11, faith:the unholy trinity, supernatural, honkai: starrail
+</p>
+
+<p align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/dfc694f1b6a08bbe6b7edd3bca79154f5ae6d5d2/dithereddantev1.png" width="350">
-</h4>
+</p>
+
+<p align="center">
+JOHN WARD, CASTIEL, VITTORINO OR LEON FANS HI HELLOO
+</p>
 
 <h6 align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/17d906d722c3d7a3170edd2694171a5cc34dfa61/dante.png" width="100">
@@ -24,12 +32,19 @@
 </h6>
 
 <p align="center">
-  <img src="https://github.com/tuichuf/tuichuf/blob/e003b98999bd619c58ef25bc6e2edaebc51739ff/censored.gif" width="30">
+placeholder text SOS
 </p>
 
 <p align="center">
-placeholder text here
+  <img src="https://github.com/tuichuf/tuichuf/blob/e003b98999bd619c58ef25bc6e2edaebc51739ff/censored.gif" width="30">
 </p>
+
+<details <p align="center">
+<summary> $${\color{#3F834A} DNI }$$  </summary>
+
+proshippers, racist, homophobic + transphobic, necrophiles, wincest fans
+
+</details>
 
 <p align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/e003b98999bd619c58ef25bc6e2edaebc51739ff/talkincoffin.gif" width="30">
