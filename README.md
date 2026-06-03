@@ -1,5 +1,12 @@
 >IMPORTANT: this read.me is under construction !!!
 
+<details <p align="center">
+<summary> $${\color{#3F834A} DNI }$$  </summary>
+
+proshippers, racist, homophobic + transphobic, necrophiles, wincest fans
+
+</details>
+
 <h6 align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/3540b8c3fe17d8c18f7f1fccd88717846d93417c/fetch.gif" width="150">
 </h6>
@@ -39,12 +46,9 @@ placeholder text SOS
   <img src="https://github.com/tuichuf/tuichuf/blob/e003b98999bd619c58ef25bc6e2edaebc51739ff/censored.gif" width="30">
 </p>
 
-<details <p align="center">
-<summary> $${\color{#3F834A} DNI }$$  </summary>
-
-proshippers, racist, homophobic + transphobic, necrophiles, wincest fans
-
-</details>
+<p align="center">
+MORE placeholder text BRUHH
+</p>
 
 <p align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/e003b98999bd619c58ef25bc6e2edaebc51739ff/talkincoffin.gif" width="30">
