@@ -10,6 +10,8 @@
 
 <h6 align="center">
 
+<img src="https://github.com/tuichuf/tuichuf/blob/7194d3c85c2c5acd242e7c4b32970787688ca6d8/rings.gif" width="400">
+
 placeholder text here
 
 <h6 align="center">
