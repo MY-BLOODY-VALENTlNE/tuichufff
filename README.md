@@ -39,7 +39,7 @@ JOHN WARD, CASTIEL, VITTORINO OR LEON FANS HI HELLOO
 </h6>
 
 <h6 align="center">
-below is linked to what im currently listening to! how neat
+below is linked to what im currently listening to! however, an ad may show the link gulp...
 </h6>
 
 <h6 align="center">
