@@ -13,9 +13,9 @@
   <img src="https://github.com/tuichuf/tuichuf/blob/7194d3c85c2c5acd242e7c4b32970787688ca6d8/rings.gif" width="400">
 </h6>
 
-<h6 align="center">
+<h4 align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/dfc694f1b6a08bbe6b7edd3bca79154f5ae6d5d2/dithereddantev1.png" width="350">
-</h6>
+</h4>
 
 <h6 align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/17d906d722c3d7a3170edd2694171a5cc34dfa61/dante.png" width="100">
@@ -23,14 +23,14 @@
 <img src="https://github.com/tuichuf/tuichuf/blob/17d906d722c3d7a3170edd2694171a5cc34dfa61/vittorino1.gif" width="100">
 </h6>
 
-<h6 align="center">
+<h4 align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/e003b98999bd619c58ef25bc6e2edaebc51739ff/censored.gif" width="30">
-</h6>
+</h4>
 
 <p align="center">
 placeholder text here
 </p>
 
-<h6 align="center">
+<h4 align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/e003b98999bd619c58ef25bc6e2edaebc51739ff/talkincoffin.gif" width="30">
-</h6>
+</h4>
