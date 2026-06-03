@@ -2,7 +2,7 @@
 
 <h6 align="center">
 
-<img src="https://github.com/tuichuf/tuichuf/blob/3540b8c3fe17d8c18f7f1fccd88717846d93417c/fetch.gif" width="100">
+<img src="https://github.com/tuichuf/tuichuf/blob/3540b8c3fe17d8c18f7f1fccd88717846d93417c/fetch.gif" width="150">
 
 <h1 align="center">
 
@@ -20,4 +20,4 @@ placeholder text here
 
 <h6 align="center">
 
-<img src="https://github.com/tuichuf/tuichuf/blob/3540b8c3fe17d8c18f7f1fccd88717846d93417c/onewingedangel.gif" width="200">
+placeholder text here
