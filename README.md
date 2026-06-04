@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/tuichuf/tuichuf/blob/c3154856119d18f3477c976af05ba25d00bf4ceb/small%20grey%20cross.gif" width="30">
+</p>
+
 >IMPORTANT: this read.me may have more added to it !!! more fun things will be added later ^^
 
 <details <p align="center">
@@ -42,12 +46,16 @@ JOHN WARD, CASTIEL, VITTORINO, DANTE OR LEON FANS HI HELLOO
 <img src="https://github.com/tuichuf/tuichuf/blob/17d906d722c3d7a3170edd2694171a5cc34dfa61/vittorino1.gif" width="100">
 </h6>
 
+<h6 align="center">
+  <img src="https://github.com/tuichuf/tuichuf/blob/6838967fdc6453dd3414c04c2b7d5be5f18fa6a1/supernatural.gif" width="100">
+</h6>
+
 <p align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/e003b98999bd619c58ef25bc6e2edaebc51739ff/censored.gif" width="30">
 </p>
 
 <p align="center">
-<img src="https://github.com/tuichuf/tuichuf/blob/c5bf9dfbabdca409defb6eacd1c0d5a5d170fb06/ditheredangelblade.png" width="200">
+  <img src="https://github.com/tuichuf/tuichuf/blob/c5bf9dfbabdca409defb6eacd1c0d5a5d170fb06/ditheredangelblade.png" width="200">
 </p>
 
 <h1 align="center">
