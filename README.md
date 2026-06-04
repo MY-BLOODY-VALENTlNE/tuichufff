@@ -20,16 +20,16 @@ proshippers, racist, homophobic + transphobic, necrophiles, israel supporters, t
   <img src="https://github.com/tuichuf/tuichuf/blob/7194d3c85c2c5acd242e7c4b32970787688ca6d8/rings.gif" width="400">
 </p>
 
-<p align="center">
+<h3 align="center">
 main fandoms: 8:11, faith:the unholy trinity, supernatural, honkai: starrail
-</p>
+</h3>
 
 <p align="center">
   <img src="https://github.com/tuichuf/tuichuf/blob/dfc694f1b6a08bbe6b7edd3bca79154f5ae6d5d2/dithereddantev1.png" width="350">
 </p>
 
 <p align="center">
-JOHN WARD, CASTIEL, VITTORINO OR LEON FANS HI HELLOO
+JOHN WARD, CASTIEL, VITTORINO, DANTE OR LEON FANS HI HELLOO
 </p>
 
 <p align="center">
